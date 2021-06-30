@@ -1,0 +1,40 @@
+h1 {
+    color: blue;
+    font-size: 20px;
+  }
+  span {
+    color: green;
+    font-size: 30px;
+  }
+img {
+  width: 400px;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: yellow;
+  padding: 50px;
+  border: 3px solid black;
+
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+body {
+  background: url(https://image.freepik.com/vector-gratis/fondo-textura-acuarela-abstracta-pastel_10126-978.jpg);
+  width:100%;
+  height:100%;
+  margin:0;
+  border:0;
+  padding:0;
+  }
+  div {
+    text-align: center;
+
+  }
+  #thirdDiv {
+    max-width: 600px;
+    margin: 0 auto; 
+  }
+  
