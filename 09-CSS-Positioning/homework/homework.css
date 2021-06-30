@@ -44,8 +44,9 @@ text-align: center;
 /* Ejercicio 5: */
 #ejercicioCinco {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    flex-direction: row-reverse;
 }
 
 
